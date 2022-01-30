@@ -50,7 +50,7 @@ namespace WebAppGitExperienceRemote2019
 
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Hello world GitHub");
+                    await context.Response.WriteAsync("Hello world GitHub 2.0");
                 });
             });
         }
