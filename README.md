@@ -4,6 +4,6 @@ Test Github experience with vs2019
 
 How to use this code:
 
- 1. Dowmload the project
+ 1. Download the project
  2. Open in Visual Studio
  3. Enjoy!
